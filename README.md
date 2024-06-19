@@ -2,7 +2,7 @@
 
 <div>
 <a href="httpa://github.com/LuizGSN">
-<img height="190cm" src="https://github-readme-stats.vercel.app/api?username=LuizGSN&show_icons=true&theme=midnight-purple"/>
+<img height="170cm" src="https://github-readme-stats.vercel.app/api?username=LuizGSN&show_icons=true&theme=midnight-purple"/>
 <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGSN&layout=compact&theme=midnight-purple&card_width(800))](https://github.com/LuizGSN/github-readme-stats"/>
 </div>
 
