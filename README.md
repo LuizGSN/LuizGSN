@@ -1,6 +1,6 @@
 ## Hey there 👋 I'm Luiz Gonzaga. 
 
-Idiomas: 🇺🇸 🇧🇷
+Idiomas: 🇧🇷 🇺🇸
 
 <div>
 <a href="httpa://github.com/LuizGSN">
