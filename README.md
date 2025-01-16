@@ -11,7 +11,7 @@ Idiomas: 🇧🇷 🇺🇸
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-HTML5-programming-and-development-those-icons-flat-those-icons.png" alt="external-HTML5-programming-and-development-those-icons-flat-those-icons"/>
-  <img align="center" alt="CSS3" height="30" width="40" src="https://img.icons8.com/stickers/50/css3.png" alt="css3"/>
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/css3.png" alt="css3"/>
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript"/>
 </div>
 
