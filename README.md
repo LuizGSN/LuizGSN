@@ -10,6 +10,7 @@ Idiomas: 🇧🇷 🇺🇸
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img width="24" height="24" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-HTML5-programming-and-development-those-icons-flat-those-icons.png" alt="external-HTML5-programming-and-development-those-icons-flat-those-icons"/>
 </div>
 
 ##
