@@ -15,6 +15,7 @@ Idiomas: 🇧🇷 🇺🇸
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript"/>
   <img width="64" height="64" src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000" alt="react"/>
   <img width="64" height="64" src="https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000" alt="node"/>
+  <img width="64" height="64" src="https://img.icons8.com/?size=100&id=ByCcJFjqrzw8&format=png&color=000000" alt="node"/>
   
 </div>
 
