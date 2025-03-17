@@ -10,10 +10,10 @@ Idiomas: 🇧🇷 🇺🇸
 
 <div style="display: inline_block"><br>
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/python.png" alt="python"/>
-  <img width="64" height="64" src="https://img.icons8.com/nolan/64/html.png" alt="html"/>
+  <img width="64" height="64" src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" alt="html"/>
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/css3.png" alt="css3"/>
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript"/>
-  <img width="64" height="64" src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" alt="javascript"/>
+  <img width="64" height="64" src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" alt="html"/>
   
 </div>
 
