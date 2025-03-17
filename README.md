@@ -13,6 +13,8 @@ Idiomas: 🇧🇷 🇺🇸
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/html.png" alt="html"/>
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/css3.png" alt="css3"/>
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript"/>
+  <img width="64" height="64" src="https://icons8.com/icon/CMVEhOBzk3Zp/html-5" alt="javascript"/>
+  
 </div>
 
 ##
