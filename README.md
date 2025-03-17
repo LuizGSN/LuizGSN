@@ -1,4 +1,4 @@
-## Hey there 👋 I'm Luiz Gonzaga. 
+## Hey there 👋 I'm Luiz Gonzaga
 
 Idiomas: 🇧🇷 🇺🇸
 
