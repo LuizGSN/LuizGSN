@@ -4,7 +4,7 @@ Luiz Gonzaga Sá Neto, 30 anos, Fortalezense, administrador de formação (UNIFO
 
 🏦 6 anos no Itaú (como Gerente PJ), onde entendi como tecnologia transforma negócios
 
-💻 Migrei para TI em 2024, buscando unir minha experiência em gestão com habilidades técnicas
+💻 Migrei para TI em 2023, buscando unir minha experiência em gestão com habilidades técnicas
 
 🌎 Inglês fluente – consigo colaborar em projetos globais e absorver conteúdos internacionais
 
@@ -44,7 +44,7 @@ Luiz Gonzaga Sá Neto, 30 anos, Fortalezense, administrador de formação (UNIFO
 
 ```mermaid
 graph LR
-    A[2016-2022: Gerente PJ no Itaú] --> B[2024: Migração para TI]
+    A[2016-2022: Gerente PJ no Itaú] --> B[2023: Migração para TI]
     B --> C[Formação Full Stack<br>Infinity School]
     C --> D[🚀 Busca por Oportunidades]
 ```
