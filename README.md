@@ -1,14 +1,14 @@
 # Luiz Gonzaga Sá Neto | Full Stack Developer
 
-Luiz Gonzaga Sá Neto, 30 anos, Fortalezense, administrador de formação (UNIFOR) e Desenvolvedor Full Stack por paixão.
+Luiz Gonzaga Sá Neto, 30 anos, Fortalezense, Administrador de formação (UNIFOR) e Desenvolvedor Full Stack por paixão.
 
-🏦 6 anos no Itaú (como Gerente PJ), onde entendi como tecnologia transforma negócios
+🏦 6 anos no Itaú (como Gerente PJ), onde entendi como tecnologia transforma negócios;
 
-💻 Migrei para TI em 2023, buscando unir minha experiência em gestão com habilidades técnicas
+💻 Migrei para TI em 2023, buscando unir minha experiência em gestão com habilidades técnicas;
 
-🌎 Inglês fluente – consigo colaborar em projetos globais e absorver conteúdos internacionais
+🌎 Inglês fluente – consigo colaborar em projetos globais e absorver conteúdos internacionais;
 
-🎮 Criador do [Keeg Club](https://wwww.keegclub.com.br) – blog onde exploro cultura geek (e treino minha criatividade para resolver bugs!)
+🎮 Criador do [Keeg Club](https://wwww.keegclub.com.br) – blog onde exploro cultura geek (e treino minha criatividade para resolver bugs!);
 
 <div> 
   <a href="https://instagram.com/_luizsaneto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
