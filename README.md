@@ -40,17 +40,6 @@ Luiz Gonzaga Sá Neto, 30 anos, Fortalezense, Administrador de formação (UNIFO
 
 ---
 
-## 🚀 Minha Jornada
-
-```mermaid
-graph LR
-    A[2016-2022: Gerente PJ no Itaú] --> B[2023: Migração para TI]
-    B --> C[Formação Full Stack<br>Infinity School]
-    C --> D[🚀 Busca por Oportunidades]
-```
-
----
-
 ## 📊 GitHub Stats  
 
 <div>
