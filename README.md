@@ -2,7 +2,7 @@
 
 Luiz Gonzaga Sá Neto, 30 anos, Fortalezense, Administrador de formação (UNIFOR) e Desenvolvedor Full Stack por paixão.
 
-🏦 6 anos no Itaú (como Gerente PJ), onde entendi como tecnologia transforma negócios;
+🏦 6 anos no Itaú Unibanco, onde entendi como tecnologia transforma negócios;
 
 💻 Migrei para TI em 2023, buscando unir minha experiência em gestão com habilidades técnicas;
 
