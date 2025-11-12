@@ -1,6 +1,6 @@
 # Luiz Gonzaga Sá Neto | Full Stack Developer
 
-Luiz Gonzaga Sá Neto, 30 anos, Fortalezense, Administrador de formação (UNIFOR) e Desenvolvedor Full Stack por paixão.
+Luiz Gonzaga Sá Neto, 31 anos, Fortalezense, Administrador de formação (UNIFOR) e Desenvolvedor Full Stack por paixão.
 
 🏦 6 anos no Itaú Unibanco, onde entendi como tecnologia transforma negócios;
 
