@@ -8,7 +8,6 @@ Luiz Gonzaga Sá Neto, 31 anos, Fortalezense, Administrador de formação (UNIFO
 
 🌎 Inglês fluente – consigo colaborar em projetos globais e absorver conteúdos internacionais;
 
-🎮 Criador do [Keeg Club](https://site-keeg-club.vercel.app) – blog onde exploro cultura geek (e treino minha criatividade para resolver bugs!);
 
 <div> 
   <a href="https://instagram.com/_luizsaneto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
