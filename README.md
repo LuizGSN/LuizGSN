@@ -2,7 +2,7 @@
 
 > **Administrador de formação, Desenvolvedor Full Stack por paixão.**
 
-📍 Fortaleza, CE, Brasil | 🎂 31 anos
+📍 Fortaleza, CE, Brasil | 🎂 32 anos
 
 ---
 
