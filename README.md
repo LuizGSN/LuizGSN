@@ -10,7 +10,7 @@
 
 Administrador pela **UNIFOR** com 6 anos de experiência corporativa no **Itaú Unibanco**, onde desenvolvi raciocínio analítico, foco em resultados e visão de negócios. Migrei para a TI em **2023** para unir minha experiência em gestão com habilidades técnicas em desenvolvimento de software.
 
-Atualmente sou **Estagiário de TI na Rede Oto (Kora Saúde)** e cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas na UNIFOR** (2025–2027). Buscando minha primeira oportunidade como **Desenvolvedor Full Stack Júnior**.
+Atualmente sou **Estagiário de TI na Rede Oto (Kora Saúde)** e cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas na UNIFOR** (2025–2027).**
 
 🌎 **Inglês fluente** — colaboro em projetos globais e absorvo conteúdos técnicos internacionais.
 
