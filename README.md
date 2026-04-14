@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Luiz Gonzaga
 
-> **Administrador de formação, Desenvolvedor Full Stack por paixão.**
+> **Administrador de formação, Estágiario de TI por paixão.**
 
 📍 Fortaleza, CE, Brasil | 🎂 32 anos
 
