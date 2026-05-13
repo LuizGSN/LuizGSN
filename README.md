@@ -58,6 +58,13 @@ Atualmente sou **Estagiário de TI na Rede Oto (Kora Saúde)** e cursando **Tecn
 >
 > [![Live Demo](https://img.shields.io/badge/-🔗_Live_Demo-00C853?style=for-the-badge)](https://keeg-store.vercel.app) [![GitHub](https://img.shields.io/badge/-📂_Repositório-181717?style=for-the-badge&logo=github)](https://github.com/LuizGSN/Keeg-store)
 
+### ✅ [TaskTrack](https://github.com/LuizGSN/TaskTrack)
+> Aplicação fullstack de gerenciamento de tarefas com API REST, filtros, prioridades, persistência em PostgreSQL e interface React com dark mode.
+>
+> **Stack:** React 19 · Vite 7 · Node.js · Express · PostgreSQL · Neon · Render · Vercel
+>
+> [![Live Demo](https://img.shields.io/badge/-🔗_Live_Demo-00C853?style=for-the-badge)](https://task-track-client.vercel.app) [![GitHub](https://img.shields.io/badge/-📂_Repositório-181717?style=for-the-badge&logo=github)](https://github.com/LuizGSN/TaskTrack)
+
 ### 🌐 [Portfólio Pessoal](https://github.com/LuizGSN/Portfolio)
 > Portfólio pessoal desenvolvido com React 19, Vite e Styled Components. Tema claro/escuro, navegação suave e SEO otimizado.
 >
